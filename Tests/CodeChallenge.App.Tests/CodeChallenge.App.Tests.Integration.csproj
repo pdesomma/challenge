@@ -27,7 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CodeChallenge.App\CodeChallenge.App\CodeChallenge.App.csproj" />
+    <ProjectReference Include="..\..\CodeChallenge.App\CodeChallenge.App.csproj" />
   </ItemGroup>
 
 </Project>
