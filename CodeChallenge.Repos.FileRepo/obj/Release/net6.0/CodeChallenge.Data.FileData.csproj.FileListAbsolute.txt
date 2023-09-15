@@ -1,0 +1,17 @@
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\bin\Release\net6.0\EmployeeContext.cs
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\bin\Release\net6.0\resources\EmployeeSeedData.json
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\bin\Release\net6.0\CodeChallenge.Data.FileData.deps.json
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\bin\Release\net6.0\CodeChallenge.Data.FileData.dll
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\bin\Release\net6.0\CodeChallenge.Data.FileData.pdb
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\bin\Release\net6.0\CodeChallenge.dll
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\bin\Release\net6.0\CodeChallenge.pdb
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\CodeChallenge.Data.FileData.csproj.AssemblyReference.cache
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\CodeChallenge.Data.FileData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\CodeChallenge.Data.FileData.AssemblyInfoInputs.cache
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\CodeChallenge.Data.FileData.AssemblyInfo.cs
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\CodeChallenge.Data.FileData.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\CodeChallenge.Data.FileData.csproj.CopyComplete
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\CodeChallenge.Data.FileData.dll
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\refint\CodeChallenge.Data.FileData.dll
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\CodeChallenge.Data.FileData.pdb
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Release\net6.0\ref\CodeChallenge.Data.FileData.dll

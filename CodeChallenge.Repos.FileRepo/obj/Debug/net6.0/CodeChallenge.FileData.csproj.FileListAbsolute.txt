@@ -1,0 +1,5 @@
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Debug\net6.0\CodeChallenge.FileData.csproj.AssemblyReference.cache
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Debug\net6.0\CodeChallenge.FileData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Debug\net6.0\CodeChallenge.FileData.AssemblyInfoInputs.cache
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Debug\net6.0\CodeChallenge.FileData.AssemblyInfo.cs
+C:\Users\Patrick\Downloads\a\a\CodeChallenge.FileData\obj\Debug\net6.0\CodeChallenge.FileData.csproj.CoreCompileInputs.cache

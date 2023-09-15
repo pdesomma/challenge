@@ -1,0 +1,6 @@
+{
+  "CodeChallenge.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Patrick\\source\\repos\\challenge\\CodeChallenge.App\\CodeChallenge.App",
+  "CodeChallenge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Patrick\\source\\repos\\challenge\\CodeChallenge",
+  "CodeChallenge.Repos.DynamoDb, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Patrick\\source\\repos\\challenge\\CodeChallenge.Repos.DynamoDb",
+  "CodeChallenge.Repos.FileRepo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Patrick\\source\\repos\\challenge\\CodeChallenge.Repos.FileRepo"
+}
